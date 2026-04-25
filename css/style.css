@@ -1346,6 +1346,10 @@ input[type=radio]:focus {
       padding-inline: 0;
    }
 
+   .works .section-title {
+      padding-inline: 15px;
+   }
+
    .works .content .swiper {
       padding-inline: 15px;
    }
